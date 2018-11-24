@@ -1,1 +1,1 @@
-[Github Profile] (https://github.com/SlinkDawg)
+[GithubProfile] (https://github.com/SlinkDawg)
